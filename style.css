@@ -1,7 +1,7 @@
 body{
     margin: 0;
     font-size: 5em;
-    background-image: url(images/bg.jpg);
+    background-image: url('images/bj.png');
   }
   .banner {
     height: 100vh;
